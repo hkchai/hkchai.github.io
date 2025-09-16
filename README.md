@@ -51,7 +51,6 @@ Global Scope: Mainly Singapore, China, Hong Kong, India, and Malaysia · HybridG
 - Worked closely with market regulatory authorities, local businesses, and partners
 - Product development and daily operations- Products vision, KPIs, and IT roadmaps
 - Worked closely with market regulatory authorities, local businesses, and partners
-- Product development and daily operations…see more
 
 ### Engineering Lead for HASE Olive  Jan 2019 - May 2021
 Greater China
