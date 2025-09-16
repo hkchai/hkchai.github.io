@@ -1,4 +1,6 @@
-# About
+# Resume of H-K Chai
+
+## About
 Executive with over 20 years of work experience in HSBC, PayPal, and various tech companies in Singapore, China, and Malaysia
 
 Knowledge of financial services, digital products, AI, web3, eCommerce, and software engineering
