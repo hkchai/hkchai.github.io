@@ -17,8 +17,8 @@ Multi-lingual (written and spoken): English, Chinese, Cantonese
 # Experience
 
 ## Chief Technology Officer                Jul 2025 - Present
-### Stealth Crypto Startup 
-Hong Kong SAR · HybridHong Kong SAR · Hybrid
+### Stealth Crypto Venture 
+Hong Kong SAR · Remote
 - Driving an crypto on-chain FX swap decentralized finance (DeFi) platform initiative
 - Involved in: architecture design, KYC/AML exposure footprint, protocol activity, source-of-wealth (SoW) identification tracing tool, compliance process, system reliability and availability, disaster recovery (DR)
 - Project in incubation stage and proposal is pending for leadership approval (as of 8th Sept)
@@ -41,12 +41,12 @@ Technologies: Python 3.8+, CCXT, Pandas, NumPy, Matplotlib, JSON, Git.
 
 ## Travel         Oct 2024 - Feb 2025
 ### Career BreakCareer Break     
-Malaysia | Singapore | China | Hong KongMalaysia | Singapore | China | Hong Kong
+Malaysia | Singapore | China | Hong Kong
 Took a break. Celebrated Christmas and Chinese New Year with familyTook a break. Celebrated Christmas and Chinese New Year with family
 
 ## HSBC     7 yrs 4 mos7 yrs 4 mos
 ### Delivery Lead in Payments and Transfer     Jun 2021 - Sep 2024
-Global Scope: Mainly Singapore, China, Hong Kong, India, and Malaysia · HybridGlobal Scope: Mainly Singapore, China, Hong Kong, India, and Malaysia · Hybrid
+Global Scope
 - Products vision, KPIs, and IT roadmaps
 - Worked closely with market regulatory authorities, local businesses, and partners
 - Product development and daily operations- Products vision, KPIs, and IT roadmaps
