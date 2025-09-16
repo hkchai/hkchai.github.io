@@ -65,6 +65,6 @@ Greater China
 - Acted as IT Service Owner, leveraging tools (ITSA, Helios, Jira) to streamline processes and ensure service reliability.…see more
 
 ### Engineering Manager @ PayMe      Jun 2017 - Dec 2020 
-Hong Kong | China | UKHong Kong | China | UK
+Hong Kong | China | UK
 - Led a flagship digital transformation project for Hong Kong, overseeing 10 cross-functional teams across China and Hong Kong to deliver a market-leading payment platform
 - Defined and executed the MVP, integrating UX design, mobile engineering, and DevOps to meet aggressive timelines and KPIs
